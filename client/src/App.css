@@ -1,0 +1,17 @@
+.app-shell {
+  min-height: 100vh;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.primary-gradient {
+  background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+}
+
+.soft-shadow {
+  box-shadow: 0 22px 55px rgba(15, 23, 42, 0.12);
+}
